@@ -1,0 +1,7 @@
+{
+    "games": [
+      { "id": 1, "title": "Cossacks 3", "genre": "Strategy", "description": "An epic Strategy.", "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/333420/header.jpg" },
+      { "id": 2, "title": "DOOM", "genre": "Shooter", "description": "Futuristic action", "image": "https://itc.ua/wp-content/uploads/2023/12/doom.jpeg" },
+      { "id": 3, "title": "S.T.A.L.K.E.R 2", "genre": "RPG", "description": "Incredible ukrainian RPG", "image": "https://www.stalker2.com/stalker2/media/2406-04.jpg" }
+    ]
+  }
