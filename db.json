@@ -1,8 +1,0 @@
-{
-    "games": [
-      { "id": 1, "title": "The Witcher 3", "genre": "RPG", "description": "An epic RPG.", "image": "https://example.com/witcher3.jpg" },
-      { "id": 2, "title": "Cyberpunk 2077", "genre": "Action RPG", "description": "Futuristic action RPG.", "image": "https://example.com/cyberpunk2077.jpg" },
-      { "id": 3, "title": "Minecraft", "genre": "Sandbox", "description": "Creative sandbox game.", "image": "https://example.com/minecraft.jpg" }
-    ]
-  }
-  
